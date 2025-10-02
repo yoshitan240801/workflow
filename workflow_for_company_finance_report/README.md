@@ -13,12 +13,6 @@
 ![処理概要図1](./slide_01.png)
 
 
----
-marp: true
-theme: default
-paginate: true
----
-
 # EDINETデータ取得・分析プログラム
 証券コード検索から半期報告書の要約までを自動化
 
