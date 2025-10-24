@@ -19,6 +19,8 @@
 | ディレクトリ名 | 概要 |
 |----------------|------|
 | [`workflow_for_company_finance_report`](./workflow_for_company_finance_report) | 企業名を入力し、財務データを取得・分析し、自然言語でレポートを出力する自動化ワークフロー。 |
-| [`workflow_for_make_marp_from_program`](./workflow_for_make_marp_from_program) | プログラムコードを解析し、Marp形式のプレゼン資料を自動生成するプロセス。技術資料作成を支援。 |
+| [`workflow_for_make_marp_from_program`](./workflow_for_make_marp_from_program) | プログラムコードを解析し、Marp形式のプレゼン資料を自動生成するワークフロー。技術資料作成を支援。 |
+| [`workflow_for_make_marp_from_program_2`](./workflow_for_make_marp_from_program_2) | フォルダ内の複数のプログラムコードを解析し、Marp形式のプレゼン資料を自動生成するワークフロー。技術資料作成を支援。 |
+
 
 ---
